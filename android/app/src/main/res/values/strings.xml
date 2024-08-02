@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">salesforcerncli.login</string>
+	<string name="app_name">salesforce-rncli</string>
+	<string name="app_package">salesforcerncli</string>
+</resources>
